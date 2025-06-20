@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1VxB6gPH7jWaph59DHYgjQDCthnCdwwYV
 """
 
-!pip install streamlit pyttsx3
+!pip install streamlit 
 
 import streamlit as st
 import requests
